@@ -2,3 +2,4 @@
 =======
 ajout ligne utilisateur original
 >>>>>>> 7cb98102692e92472164f627311e57bae2912a1c
+Nouvelle ligne dans la branche
