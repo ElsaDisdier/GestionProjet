@@ -1,1 +1,4 @@
-AJout ligne utilisateur bis conflit push/pull
+<<<<<<< HEAD
+=======
+ajout ligne utilisateur original
+>>>>>>> 7cb98102692e92472164f627311e57bae2912a1c
